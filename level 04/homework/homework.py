@@ -1,0 +1,22 @@
+car=200
+singlenes=20
+print (car*singlenes)
+amiran=13
+ana=7
+print(amiran+10)
+print(ana+10)
+amirani=30
+sandro=5
+print(amirani+sandro)
+print(amirani-sandro)
+print(amiran*sandro)
+print(amirani/sandro)      
+nika=amirani
+sandro=13
+print(nika)
+print(sandro)
+natia=38
+amirani=13
+natia1=48
+amirani1=23
+print(natia1/amirani1)
