@@ -1,0 +1,14 @@
+kogo="amiran"
+chiti="gogoberidze"
+print(kogo+chiti)
+amirani=13
+ana=7
+print(amirani+ana)
+kalami=10
+pasta=12
+pan=17
+print(kalami+pasta+pan/3)
+goa=7
+print(goa*5)
+ana="7"
+print(ana*5)
